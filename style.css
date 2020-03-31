@@ -1,0 +1,129 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+     color: #888;
+}
+h2{
+    font-size: 36px;
+     font-weight: 400;
+     margin-bottom: 20px;
+}
+h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color:black
+}
+a{
+    color:white !important;
+}
+
+a:hover,a:focus{
+    color: #71bd46 !important;
+	text-decoration: none;
+}
+header {
+    background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7) );
+background-repeat: no-repeat ;
+background-position:bottom center;
+background-size: cover;
+color: #cfcfcf;
+position: relative;
+height: 100%;
+}
+.intro {
+    position: relative;
+    padding-top: 250px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 200px;
+}
+.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+}
+#aboutus {
+    padding:80px;
+    color:black;
+
+}
+#aboutus h4{
+    border-bottom: 1px solid  #2f6bda;;
+    
+    padding-bottom:20px;
+    display:inline-block;
+}
+#aboutus p{
+    margin-top:30px;
+    margin-bottom:40px;
+    color: #888;
+    
+}
+hr{
+    width:80px;
+   margin:20px 0 40px 0;
+}
+#technical-content{
+    color: #888;
+    font-size: 14px;
+
+}
+#team{
+    padding:100px 0;
+}
+
+img.team_pic{
+    width: 150px;
+     height: 150px;
+     border: 0;
+     transition: all 0.5s;
+     margin: 0;
+     border-radius: 50%;
+}
+#team.pic{
+    border:0;
+}
+ 
+
+#dept h2{
+    color:black;
+}
+#team h2{
+    color:black;
+}
+#team div{
+    overflow: hidden; 
+    text-align: center;
+}
+
+
+#footer {
+    background-color: #d8e7f0
+    
+}
+#footer div { 
+    
+    overflow: hidden; 
+    text-align: center;
+}
+
+#footer span  {
+    display: inline-block;
+   
+    margin: 10px 10px 0 0;
+    padding: 5px 10px;
+}
+img.icon {
+    margin: 0 25%;
+width: 50%;
+border-radius: 50%;
+}
+.model-body h2{
+    color: #888;
+}
+ h1{
+    color:black;
+}
+.model-body.icon h3{
+    color:rgb(114, 108, 108)
+}
